@@ -44,9 +44,9 @@ ynh_script_progression --message="Adding a configuration file..." --weight=1
 
 ynh_add_config --template="../conf/config.yml" --destination="$install_dir/config.yml"
 
-chmod 750 "$final_path"
-chmod -R o-rwx "$final_path"
-chown -R $app:www-data "$final_path"
+chmod 750 "$install_dir"
+chmod -R o-rwx "$install_dir"
+chown -R $app:www-data "$install_dir"
 
 #=================================================
 # GENERIC FINALIZATION
