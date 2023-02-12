@@ -1,0 +1,6 @@
+SOURCE_URL=https://github.com/stashapp/stash/releases/download/v0.18.0/stash-linux
+SOURCE_SUM=c35c2ceb7418a9bb16c66e414c2a92dec973edea265ba877d45634ae79c4791f
+SOURCE_SUM_PRG=sha256sum
+SOURCE_IN_SUBDIR=false
+SOURCE_FILENAME=stash
+SOURCE_EXTRACT=false

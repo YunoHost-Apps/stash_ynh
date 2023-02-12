@@ -1,0 +1,6 @@
+SOURCE_URL=https://github.com/stashapp/stash/releases/download/v0.18.0/stash-linux-arm32v7
+SOURCE_SUM=358fdf7b6ffc4d1c85ee5f2616415d1b01c4de5447dd0e03f9b3765171348917
+SOURCE_SUM_PRG=sha256sum
+SOURCE_IN_SUBDIR=false
+SOURCE_FILENAME=stash
+SOURCE_EXTRACT=false
