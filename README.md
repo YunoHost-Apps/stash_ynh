@@ -16,7 +16,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Overview
 
-Stash is a self-hosted webapp written in Go which organizes and serves yourvideos.
+Stash is a self-hosted webapp written in Go which organizes and serves your videos.
 
 ### Features
 
