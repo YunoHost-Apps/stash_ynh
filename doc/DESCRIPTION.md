@@ -1,4 +1,4 @@
-Stash is a self-hosted webapp written in Go which organizes and serves yourvideos.
+Stash is a self-hosted webapp written in Go which organizes and serves your videos.
 
 ### Features
 
