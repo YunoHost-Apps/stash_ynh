@@ -31,7 +31,7 @@ Stash is a self-hosted webapp written in Go which organizes and serves yourvideo
 
 ## Captures d’écran
 
-![Capture d’écran de Stash](./doc/screenshots/example.jpg)
+![Capture d’écran de Stash](./doc/screenshots/demo_image.png)
 
 ## Documentations et ressources
 
